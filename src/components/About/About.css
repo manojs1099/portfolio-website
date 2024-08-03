@@ -1,0 +1,101 @@
+/* About.css */
+
+body {
+    background-image: url('../Home/backgroundimg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body.overflow-hidden {
+    overflow: hidden;
+  }
+  
+  .about-container {
+    min-height: 100vh;
+    padding: 2rem;
+    box-sizing: border-box;
+    color: #afa6a6;
+    padding: 2rem;
+    max-width: 800px;
+    margin: 0 auto 0 auto
+  }
+  
+  .introduction {
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 2rem;
+    text-align: left; 
+  }
+  
+  .introduction h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    margin-top: 0;
+    color: #9f0707; 
+  }
+  
+  .introduction p {
+    font-size: 1.2rem;
+    margin-bottom: 1.5rem;
+    color: #020202;
+    line-height: 1.6;
+  }
+  
+  .view-resume-btn {
+    display: inline-block;
+    padding: 0.8rem 1.2rem;
+    background-color: rgba(213, 213, 213, 0.208);
+    transition: border-color 0.3s ease, transform 0.3s ease;
+    border: 2px solid rgba(64, 62, 62, 0.52);
+    color:  rgb(47, 45, 45);
+    text-decoration: none;
+    border-radius: 4px;
+    font-weight: bold;
+  }
+  
+  .view-resume-btn:hover {
+    border:2px solid #a45c5c6f;
+    border-radius: 8px;
+    background-color: #702727;
+    color: #fff;
+    transform: scale(1.05);
+  }
+
+  .arrow-icon {
+    margin-left: 0.5rem;
+    font-weight: bold;
+  }
+  
+  .projects-link {
+    color: #1a3b97;
+    text-decoration: none;
+    font-weight: bold;
+    position: relative;
+  }
+  
+  .projects-link::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: #1a3b97; 
+    transform-origin: bottom right;
+    transition: transform 0.25s ease-out;
+  }
+  
+  .projects-link:hover::after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+  }
