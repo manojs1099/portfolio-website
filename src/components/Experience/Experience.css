@@ -194,32 +194,32 @@ body {
 
 @media (max-width: 980px) {
   .timeline-header {
-    font-size: 30px; /* Reduce font size */
+    font-size: 30px;
   }
 
   .timeline-item {
-    padding: 15px 50px; /* Adjust padding */
+    padding: 15px 50px;
   }
 
   .timeline-dot {
-    width: 50px; /* Reduce dot size */
+    width: 50px; 
     height: 50px;
     top: 75px;
     left: calc(105% - 20px);
   }
 
   .timeline-content {
-    padding: 15px 25px; /* Adjust padding */
-    width: 90%; /* Adjust width */
+    padding: 15px 25px;
+    width: 90%; 
   }
 
   .timeline-date {
-    font-size: 14px; /* Reduce font size */
+    font-size: 14px; 
   }
 
   .timeline-content.left,
   .timeline-content.right {
-    margin: 0 auto; /* Center content */
+    margin: 0 auto; 
   }
 
   .timeline-content.left:before,
@@ -232,51 +232,50 @@ body {
   }
 }
 
-/* Media Queries for 720px screen width */
 @media (max-width: 720px) {
   .timeline-container {
-    padding: 10px; /* Reduce padding */
+    padding: 10px;
   }
 
   .timeline-header {
-    font-size: 24px; /* Further reduce font size */
+    font-size: 24px;
   }
 
   .timeline-item {
-    width: 100%; /* Make timeline items full width */
-    padding: 10px 20px; /* Further adjust padding */
+    width: 100%; 
+    padding: 10px 20px; 
   }
 
   .timeline-item:nth-child(odd),
   .timeline-item:nth-child(even) {
-    left: 0; /* Reset left positioning */
-    text-align: center; /* Center text */
+    left: 0; 
+    text-align: center; 
   }
 
   .timeline:before {
-    left: 5%; /* Adjust position of the central line */
+    left: 5%; 
   }
 
   .timeline-dot {
-    width: 40px; /* Further reduce dot size */
+    width: 40px;
     height: 40px;
     left: calc(5% + 10px);
   }
 
   .timeline-content {
-    padding: 10px 20px; /* Further adjust padding */
-    width: 85%; /* Adjust width */
+    padding: 10px 20px;
+    width: 85%; 
     margin-left: auto;
     margin-right: auto;
   }
 
   .timeline-content.left,
   .timeline-content.right {
-    margin: 0 auto; /* Center the content */
+    margin: 0 auto; 
   }
 
   .timeline-date {
-    font-size: 12px; /* Further reduce font size */
+    font-size: 12px;
     width: 100%;
     text-align: center;
     position: relative;
