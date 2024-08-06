@@ -6,9 +6,12 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
+const basename = process.env.NODE_ENV === 'production'
+  ? process.env.PUBLIC_URL
+  : '';
 root.render(
   <React.StrictMode>
-    <Router basename={process.env.PUBLIC_URL}>
+    <Router basename={basename}>
       <App />
     </Router>
   </React.StrictMode>
