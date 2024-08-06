@@ -1,8 +1,28 @@
-# My Portfolio
+# Manoj Saddanapu - Software Engineer
 
 Welcome to my personal portfolio website! This project showcases my journey as a developer, highlighting my skills, projects, and experience.
 
-![Homepage Screenshot](./public/assets/homepage.png) <!-- Replace with actual link to screenshot -->
+![Homepage Screenshot](./public/assets/homepage.png)
+
+## About Me
+
+Hi 👋, I'm Manoj Saddanapu, a 2024 graduate 🎓 with a passion for crafting robust backend systems and captivating mobile applications. As a seasoned Software Developer, I specialize in both MEAN and MERN stacks 🛠️.
+
+Beyond coding, I love going for vacations and exploring new places. On a different note, I'm also into photography 📸 and cooking 🧑‍🍳. In photography, it's not just a hobby; I see it as a way to capture moments 🖼️, tell stories.
+
+## Experience
+
+### Website Manager - Clarke Historical Library (April 2023 - Present)
+- Involved in dynamic contributions to web and mobile development projects, actively influencing and improving project outcomes.
+- Developed multiple shared components to simplify tasks for fellow developers, boosting efficiency and teamwork.
+- Enhanced product performance through significant contributions to backend development, optimizing essential components for improved efficiency.
+- Implemented data security for the company's product to provide role-based access control.
+
+### Software Engineer - Capgemini (Jan 2023 - March 2023)
+- Gained experience with Git version control contributing to the development and maintenance of code repositories.
+- Worked on the application dashboard, making it more user-friendly and efficient.
+- Collaborated with the team to troubleshoot and debug software issues, enhancing application performance.
+
 
 ## Available Scripts
 
@@ -49,50 +69,7 @@ You don't have to ever use eject. The curated feature set is suitable for small 
 - **Deployment**: AWS, Netlify, Vercel
 - **Other Tools**: Create React App, ESLint, Prettier
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved [here](https://facebook.github.io/create-react-app/docs/code-splitting).
-
-### Analyzing the Bundle Size
-
-This section has moved [here](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size).
-
-### Making a Progressive Web App
-
-This section has moved [here](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app).
-
-### Advanced Configuration
-
-This section has moved [here](https://facebook.github.io/create-react-app/docs/advanced-configuration).
-
-### Deployment
-
-This section has moved [here](https://facebook.github.io/create-react-app/docs/deployment).
-
-### `npm run build` fails to minify
-
-This section has moved [here](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify).
-
-## Screenshots
-
-### Homepage
-
-![Homepage](link_to_your_homepage_screenshot) <!-- Replace with actual link to screenshot -->
-
-### Contact Page
-
-![Contact Page](link_to_your_contact_page_screenshot) <!-- Replace with actual link to screenshot -->
-
-## Contact
-
 Feel free to reach out if you have any questions or comments!
 
-- Email: your_email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- GitHub: [Your GitHub Profile](https://github.com/yourprofile)
+- Email: manoj.s91099@gmail.com
+- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/manoj-sa72199126)
