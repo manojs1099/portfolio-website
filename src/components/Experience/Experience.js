@@ -1,5 +1,7 @@
 import React from 'react';
 import './Experience.css';
+import cmuLogo from './cmuLogo.png';
+import capgLogo from './capgLogo.png';
 
 const experiences = [
   {
@@ -12,7 +14,7 @@ const experiences = [
       'Implemented data security for the company\'s product to provide role-based access control.',
     ],
     period: 'April 2023 - Present',
-    logo: '../assests/cmuLogo.png',
+    logo: cmuLogo,
   },
   {
     title: 'Software Engineer',
@@ -23,7 +25,7 @@ const experiences = [
       'Collaborated with the team to troubleshoot and debug software issues, enhancing application performance.',
     ],
     period: 'Jan 2023 - March 2023',
-    logo: '../assests/capgLogo.png',
+    logo: capgLogo,
   },
 ];
 

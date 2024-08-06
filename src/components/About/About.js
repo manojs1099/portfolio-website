@@ -1,19 +1,13 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 import { Link } from 'react-router-dom';
 import './About.css';
+import ManojResume from './ManojResume-FullStack.pdf';
 
 const About = () => {
 
-  useEffect(() => {
-    document.body.classList.add('overflow-hidden');
-    return () => {
-      document.body.classList.remove('overflow-hidden');
-    };
-  }, []);
-
   const handleResumeClick = (e) => {
     e.preventDefault();
-    window.open('../assests/ManojResume-FullStack.pdf' , '_blank');
+    window.open(ManojResume, '_blank');
   };
 
   return (
@@ -29,7 +23,7 @@ const About = () => {
         <p>
           Check out my projects <Link className="projects-link" to="/projects">here</Link>.
         </p>
-        <a href="./ManojResume-FullStack.pdf" className="view-resume-btn" onClick={handleResumeClick}>View Resume <span className="arrow-icon">&#8594;</span></a>
+        <a href= {ManojResume} className="view-resume-btn" onClick={handleResumeClick}>View Resume <span className="arrow-icon">&#8594;</span></a>
       </div>
     </div>
   );

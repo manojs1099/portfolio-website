@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useRef } from 'react';
 import emailjs from 'emailjs-com';
 import './Contact.css';
 
@@ -10,14 +10,6 @@ const Contact = () => {
   });
 
   const formRef = useRef();
-
-
-  useEffect(() => {
-    document.body.classList.add('overflow-hidden');
-    return () => {
-      document.body.classList.remove('overflow-hidden');
-    };
-  }, []);
 
   const handleChange = (e) => {
     setFormData({

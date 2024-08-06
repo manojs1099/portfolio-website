@@ -7,18 +7,14 @@ body {
   margin: 0;
 }
 
-body.overflow-hidden {
-  overflow: hidden;
-}
-
 .contact-container {
-  padding: 3rem;
-  width: 70%;
+  padding: 2.5rem;
+  width: 60%;
   max-width: 700px;
   margin: 0 auto;
   text-align: left;
   color: #1a1717;
-  margin-bottom: auto;
+  margin-bottom: -100rem;
 }
 
 .contact-container p {
@@ -29,8 +25,8 @@ body.overflow-hidden {
 .contact-container h1 {
   font-size: 2.5rem bold;
   color: #9f0707;
-  margin-bottom: 0.1rem;
-  margin-top: -1rem;
+  margin-bottom: auto;
+  margin-top: -1.2rem;
 }
 
 .contact-form {
@@ -44,6 +40,7 @@ body.overflow-hidden {
 .contact-form label {
   display: block;
   margin-bottom: 1rem;
+  margin-top: -0.5rem;
   font-weight: bold;
   color: #2a2626;
 }
@@ -76,6 +73,7 @@ body.overflow-hidden {
   padding: 0.75rem 1.75rem;
   border: none;
   border-radius: 4px;
+  font-weight: bold;
   cursor: pointer;
   transition: border-color 0.3s ease, transform 0.3s ease;
 }

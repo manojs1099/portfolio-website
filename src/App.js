@@ -1,6 +1,7 @@
 import React from 'react';
 import { Routes, Route, useLocation } from 'react-router-dom';
 import { AnimatePresence, motion } from 'framer-motion';
+import ScrollToTop from './components/scrollToTop';
 import Navbar from './components/Navbar/Navbar';
 import Home from './components/Home/Home';
 import About from './components/About/About';
@@ -11,6 +12,10 @@ import './App.css';
 
 const App = () => {
   const location = useLocation();
+
+  // useEffect(() => {
+  //   window.scrollTo(0, 0);
+  // }, [location]);
 
   const pageVariants = {
     initial: {
@@ -37,11 +42,12 @@ const App = () => {
   return (
     <div className="app">
       <Navbar />
+      <ScrollToTop />
       <AnimatePresence mode="wait">
         <Routes location={location} key={location.pathname}>
           <Route
             exact
-            path="/"
+              path="/"
             element={
               <motion.div initial="initial" animate="in" exit="out" variants={pageVariants} transition={pageTransition}>
                 <Home />

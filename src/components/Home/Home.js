@@ -24,14 +24,6 @@ const Home = () => {
     return () => clearInterval(intervalId);
   }, []);
 
-  useEffect(() => {
-    document.body.classList.add('overflow-hidden');
-    return () => {
-      document.body.classList.remove('overflow-hidden');
-    };
-  }, []);
-  
-
   return (
     <section id="home" className="home-section">
       <div className="home-container">
