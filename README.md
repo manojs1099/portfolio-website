@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website! This project showcases my journey as a developer, highlighting my skills, projects, and experience.
 
-![Homepage Screenshot](../assets/homepage.png) <!-- Replace with actual link to screenshot -->
+![Homepage Screenshot](./public/assets/homepage.png) <!-- Replace with actual link to screenshot -->
 
 ## Available Scripts
 
