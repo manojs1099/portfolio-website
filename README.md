@@ -4,6 +4,36 @@ Welcome to my personal portfolio website! This project showcases my journey as a
 
 ![Homepage Screenshot](./public/assets/homepage.png)
 
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.
+You may also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.
+See the section about running tests for more information.
+
+### `npm run build`
+
+### `npm run eject`
+
+## Technical Skills Used in Portfolio
+
+- **Frontend**: React, HTML5, CSS3, JavaScript, Bootstrap, Framer Motion
+- **Backend**: Node.js, Express
+- **Version Control**: Git, GitHub
+- **Deployment**: AWS, Netlify, Vercel
+- **Other Tools**: Create React App, ESLint, Prettier
+
+
 ## About Me
 
 Hi 👋, I'm Manoj Saddanapu, a 2024 graduate 🎓 with a passion for crafting robust backend systems and captivating mobile applications. As a seasoned Software Developer, I specialize in both MEAN and MERN stacks 🛠️.
@@ -55,36 +85,6 @@ Beyond coding, I love going for vacations and exploring new places. On a differe
 - Collaborated with a multidisciplinary team to design and deploy new healthcare service features, improving overall system efficiency.
 - Automated data backup processes, reducing manual effort by 50% and increasing system reliability and recovery speed.
 
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.
-See the section about running tests for more information.
-
-### `npm run build`
-
-### `npm run eject`
-
-
-## Technical Skills Used in Portfolio
-
-- **Frontend**: React, HTML5, CSS3, JavaScript, Bootstrap, Framer Motion
-- **Backend**: Node.js, Express
-- **Version Control**: Git, GitHub
-- **Deployment**: AWS, Netlify, Vercel
-- **Other Tools**: Create React App, ESLint, Prettier
 
 Feel free to reach out if you have any questions or comments!
 
