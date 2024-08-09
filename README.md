@@ -11,7 +11,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.
-Open [My_portfolio](https://manojs1099.github.io/) to view it in your browser.
+Open [My_portfolio](https://manojs1099.github.io/portfolio-website/) to view it in your browser.
 
 The page will reload when you make changes.
 You may also see any lint errors in the console.
