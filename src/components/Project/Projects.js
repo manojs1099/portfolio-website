@@ -33,7 +33,7 @@ const Projects = () => {
         <p>
           <strong>Organization:</strong> Clarke Historical Library
           <br />
-          <strong>Duration:</strong> Oct 2022 - May 2024
+          <strong>Duration:</strong> Oct 2022 - May 2023
         </p>
         <ul>
           <li>Automated digitization processes, reducing manual effort by 50% and increasing speed by 30%.</li>

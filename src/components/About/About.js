@@ -15,10 +15,10 @@ const About = () => {
       <div className="introduction">
         <h1>Introduction</h1>
         <p> 
-          Hi <span role="img" aria-label="wave">👋</span>, I'm Manoj Saddanapu, a 2024 graduate <span role="img" aria-label="graduation cap">🎓</span> with a passion for crafting robust backend systems and captivating mobile applications. As a seasoned Software Developer, I specialize in both MEAN and MERN stacks <span role="img" aria-label="tools">🛠️</span>.
+          Hi <span role="img" aria-label="wave">👋</span>, I'm Manoj Saddanapu, a Software Engineer with 3+ years of experience in building high-performance backend systems and optimizing full-stack applications. I specialize in crafting scalable solutions using Python, Golang, and Java, with a focus on enhancing efficiency and reliability <span role="img" aria-label="gear">⚙️</span>.
         </p>
         <p>
-          <span role="img" aria-label="light bulb">💡</span> Beyond coding, I love going for vacations and exploring new places. On a different note, I'm also into photography <span role="img" aria-label="camera">📸</span> and cooking <span role="img" aria-label="chef">🧑‍🍳</span>. In photography, it's not just a hobby; I see it as a way to capture moments <span role="img" aria-label="framed picture">🖼️</span>, tell stories.
+        <span role="img" aria-label="light bulb">💡</span> Beyond coding, I love to travel <span role="img" aria-label="airplane">✈️</span>, capture the world through my lens <span role="img" aria-label="camera">📸</span>, and experiment with new culinary creations <span role="img" aria-label="chef">🧑‍🍳</span>. These hobbies let me explore creativity in all aspects of life.
         </p>
         <p>
           Check out my projects <Link className="projects-link" to="/projects">here</Link>.

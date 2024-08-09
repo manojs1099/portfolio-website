@@ -36,7 +36,7 @@ const Home = () => {
             <h1 className="highlighted-name">{displayName}</h1>
             <h2 className="job-title">Software Developer</h2>
           </div>
-        <p className='paragraph'>I'm a Backend Developer with experience in building scalable and optimized backend systems.</p>
+        <p className='paragraph'>I specialize in developing high-performance backend systems with a focus on optimizing response times and enhancing user experiences.</p>
         <div className="buttons">
           <NavLink exact to="/contact" activeClassName="active">
             <button className="contact-btn">Contact Me</button>
