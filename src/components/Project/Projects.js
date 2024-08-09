@@ -41,19 +41,6 @@ const Projects = () => {
           <li>Improved website performance by 40% through user behavior analysis and ensured accessibility compliance, increasing satisfaction by 25%.</li>
         </ul>
       </div>
-      <div className="project-card">
-        <h2>Backend and Middleware Optimization</h2>
-        <p>
-          <strong>Organization:</strong> Capgemini Technology
-          <br />
-          <strong>Duration:</strong> Jun 2020 - Aug 2022
-        </p>
-        <ul>
-          <li>Developed and optimized backend solutions using Python and Go, increasing data processing efficiency by 30% with improved SQL queries and automated validation scripts.</li>
-          <li>Engineered middleware components using Java and Go, significantly enhancing communication between front-end and back-end systems and boosting overall application performance.</li>
-          <li>Designed and implemented web interfaces with JavaScript, AngularJS, HTML, and CSS, leading to a 25% increase in user engagement through improved user experience.</li>
-        </ul>
-      </div>
       </div>
     </div>
   );
