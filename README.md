@@ -35,6 +35,16 @@ Beyond coding, I love going for vacations and exploring new places. On a differe
 - Leveraged Kubernetes for container orchestration, significantly enhancing deployment and scaling efficiency.
 - Contributed to Agile workflows, including sprint planning and estimation, reducing deployment times by 20% through the use of Jenkins for CI/CD.
 
+## Technical Skills Used
+
+- **Programming Languages**: Golang, Python, Java, C, C++
+- **Frontend**: React, AngularJS, HTML5, CSS3, JavaScript, Bootstrap, Framer Motion
+- **Backend**: Node.js, Express, Django
+- **Databases**: SQL, MySQL, PostgreSQL, MongoDB, Cassandra
+- **Cloud & DevOps**: Docker, Kubernetes, AWS (S3, EC2, Lambda)
+- **APIs**: RESTful API, SOAP
+- **Version Control**: Git, GitHub
+- **Other Tools**: Jenkins, Netlify, Vercel, Create React App, ESLint, Prettier
 
 ## Available Scripts
 
@@ -55,15 +65,8 @@ See the section about running tests for more information.
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.
-Your app is ready to be deployed!
-
-See the section about deployment for more information.
-
 ### `npm run eject`
+
 
 ## Technical Skills Used
 
