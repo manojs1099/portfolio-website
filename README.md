@@ -12,16 +12,28 @@ Beyond coding, I love going for vacations and exploring new places. On a differe
 
 ## Experience
 
-### Website Manager - Clarke Historical Library (April 2023 - Present)
-- Involved in dynamic contributions to web and mobile development projects, actively influencing and improving project outcomes.
-- Developed multiple shared components to simplify tasks for fellow developers, boosting efficiency and teamwork.
-- Enhanced product performance through significant contributions to backend development, optimizing essential components for improved efficiency.
-- Implemented data security for the company's product to provide role-based access control.
+###   Software Engineer - Subaru (October 2023 - July 2024)
+- Designed and deployed RESTful APIs using Golang and Python, enhancing frontend-backend integration and significantly reducing response times.
+- Developed scalable frontend components with React and AngularJS, leading to a 20% increase in user engagement and satisfaction.
+- Streamlined development with CI/CD pipelines using Jenkins and Docker, drastically reducing deployment times.
+- Automated critical processes using Python, resulting in a 35% reduction in operational costs and faster task completion.
+- Optimized backend performance in Golang and Python, boosting website performance, user satisfaction, and conversion rates.
+- Mentored junior developers, improving overall team productivity and code quality by 20% through consistent technical guidance and code reviews.
 
-### Software Engineer - Capgemini (Jan 2023 - March 2023)
-- Gained experience with Git version control contributing to the development and maintenance of code repositories.
-- Worked on the application dashboard, making it more user-friendly and efficient.
-- Collaborated with the team to troubleshoot and debug software issues, enhancing application performance.
+### Full Stack Software Engineer Intern - ZT Systems (May 2023 - August 2023)
+- Built and maintained high-performance web applications using React, Node.js, and MongoDB, enhancing user satisfaction for online banking and investment platforms.
+- Developed secure RESTful APIs, reducing transaction errors by 30% through enhanced data integration and third-party integrations.
+- Optimized application performance by leveraging AWS services (EC2, S3, Lambda), leading to significant improvements in load times and scalability.
+- Collaborated with cross-functional teams to design and deploy new features, ensuring alignment with business objectives and increasing feature adoption.
+- Implemented unit and integration tests, improving code reliability and quality by 35%.
+
+### Software Engineer - Capgemini Technology ( May 2020 - August 2022)
+- Created and launched scalable microservices using Golang and C#, integrating them seamlessly with Cassandra databases to reduce backend response times.
+- Implemented JWT authentication and integrated with AWS EC2, enhancing system security and uptime by 20%.
+- Utilized Apache Kafka for real-time data streaming, improving data processing efficiency across microservices.
+- Migrated legacy systems from SOAP to RESTful APIs, improving API performance and scalability by 25%.
+- Leveraged Kubernetes for container orchestration, significantly enhancing deployment and scaling efficiency.
+- Contributed to Agile workflows, including sprint planning and estimation, reducing deployment times by 20% through the use of Jenkins for CI/CD.
 
 
 ## Available Scripts
@@ -52,14 +64,6 @@ Your app is ready to be deployed!
 See the section about deployment for more information.
 
 ### `npm run eject`
-
-**Note: this is a one-way operation. Once you eject, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can eject at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except eject will still work, but they will point to the copied scripts so you can tweak them. At this point, you're on your own.
-
-You don't have to ever use eject. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However, we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 ## Technical Skills Used
 
