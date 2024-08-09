@@ -35,7 +35,7 @@ Beyond coding, I love going for vacations and exploring new places. On a differe
 - Leveraged Kubernetes for container orchestration, significantly enhancing deployment and scaling efficiency.
 - Contributed to Agile workflows, including sprint planning and estimation, reducing deployment times by 20% through the use of Jenkins for CI/CD.
 
-## Technical Skills Used
+## Technical Skills
 
 - **Programming Languages**: Golang, Python, Java, C, C++
 - **Frontend**: React, AngularJS, HTML5, CSS3, JavaScript, Bootstrap, Framer Motion
@@ -45,6 +45,16 @@ Beyond coding, I love going for vacations and exploring new places. On a differe
 - **APIs**: RESTful API, SOAP
 - **Version Control**: Git, GitHub
 - **Other Tools**: Jenkins, Netlify, Vercel, Create React App, ESLint, Prettier
+
+## Projects
+
+### Health Harbor (Hospital Management System)
+- Implemented advanced encryption to secure patient data, achieving compliance with data protection regulations and enhancing data integrity.
+- Enhanced database schema, resulting improvement in query performance and a reduction in record retrieval time by 40%.
+- Resulted and integrated streamlined appointment management features, leading increase in scheduling efficiency and reduced patient wait times.
+- Collaborated with a multidisciplinary team to design and deploy new healthcare service features, improving overall system efficiency.
+- Automated data backup processes, reducing manual effort by 50% and increasing system reliability and recovery speed.
+
 
 ## Available Scripts
 
@@ -68,7 +78,7 @@ See the section about running tests for more information.
 ### `npm run eject`
 
 
-## Technical Skills Used
+## Technical Skills Used in Portfolio
 
 - **Frontend**: React, HTML5, CSS3, JavaScript, Bootstrap, Framer Motion
 - **Backend**: Node.js, Express
