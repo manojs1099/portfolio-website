@@ -11,7 +11,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [My_portfolio](https://manojs1099.github.io/portfolio-website/) to view it in your browser.
 
 The page will reload when you make changes.
 You may also see any lint errors in the console.
@@ -89,4 +89,4 @@ Beyond coding, I love going for vacations and exploring new places. On a differe
 Feel free to reach out if you have any questions or comments!
 
 - Email: manoj.s91099@gmail.com
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/manoj-sa72199126)
+- LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/manoj-sa72199126)
