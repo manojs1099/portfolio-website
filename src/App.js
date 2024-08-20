@@ -13,10 +13,6 @@ import './App.css';
 const App = () => {
   const location = useLocation();
 
-  // useEffect(() => {
-  //   window.scrollTo(0, 0);
-  // }, [location]);
-
   const pageVariants = {
     initial: {
       opacity: 0,
