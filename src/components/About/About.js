@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import './About.css';
-import ManojResume from './ManojResume-FullStack1.pdf';
+import ManojResume from './Manoj Saddanapu - SE Java.pdf';
 
 const About = () => {
 
