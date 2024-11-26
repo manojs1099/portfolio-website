@@ -43,12 +43,12 @@ Beyond coding, I love going for vacations and exploring new places. On a differe
 ## Experience
 
 ###   Software Engineer - Subaru (October 2023 - July 2024)
-- Designed and deployed RESTful APIs using Golang and Python, enhancing frontend-backend integration and significantly reducing response times.
-- Developed scalable frontend components with React and AngularJS, leading to a 20% increase in user engagement and satisfaction.
-- Streamlined development with CI/CD pipelines using Jenkins and Docker, drastically reducing deployment times.
-- Automated critical processes using Python, resulting in a 35% reduction in operational costs and faster task completion.
-- Optimized backend performance in Golang and Python, boosting website performance, user satisfaction, and conversion rates.
-- Mentored junior developers, improving overall team productivity and code quality by 20% through consistent technical guidance and code reviews.
+- Engineered software solutions using Java and Spring Boot, achieving a significant reduction in processing time and enhanced system performance.
+- Designed and implemented RESTful APIs, which improved data integration and increased data accuracy by 30%.
+- Developed CI/CD pipelines and utilized AWS and Azure to accelerate deployment times, boosting overall operational efficiency.
+- Collaborated with cross-functional teams to ensure software solutions aligned with business objectives, resulting in a 15% improvement in project delivery timelines.
+- Conducted unit and integration testing to ensure software reliability, reducing production bugs and maintaining software quality.
+- Established data analytics and reporting features with SQL and BI tools, enabling better resource allocation and actionable insights.
 
 ### Full Stack Software Engineer Intern - ZT Systems (May 2023 - August 2023)
 - Built and maintained high-performance web applications using React, Node.js, and MongoDB, enhancing user satisfaction for online banking and investment platforms.
@@ -58,16 +58,16 @@ Beyond coding, I love going for vacations and exploring new places. On a differe
 - Implemented unit and integration tests, improving code reliability and quality by 35%.
 
 ### Software Engineer - Capgemini Technology ( May 2020 - August 2022)
-- Created and launched scalable microservices using Golang and C#, integrating them seamlessly with Cassandra databases to reduce backend response times.
-- Implemented JWT authentication and integrated with AWS EC2, enhancing system security and uptime by 20%.
-- Utilized Apache Kafka for real-time data streaming, improving data processing efficiency across microservices.
-- Migrated legacy systems from SOAP to RESTful APIs, improving API performance and scalability by 25%.
-- Leveraged Kubernetes for container orchestration, significantly enhancing deployment and scaling efficiency.
-- Contributed to Agile workflows, including sprint planning and estimation, reducing deployment times by 20% through the use of Jenkins for CI/CD.
+- Developed and optimized scalable software using Java, Python, and SQL, increasing operational efficiency for diverse client applications.
+- Implemented Agile methodologies, accelerating project delivery times by 20% and enhancing team collaboration.
+- Optimized databases using SQL and NoSQL technologies, achieving faster data retrieval and high-volume data processing capabilities.
+- Worked with various teams to gather requirements and deliver software that aligned with business goals, achieving a 25% client satisfaction increase.
+- Reduced operational costs by 18% through effective use of AWS and Azure in deployment, ensuring scalability and cost-efficiency.
+- Conducted rigorous testing and performance tuning to improve application functionality and user experience.
 
 ## Technical Skills
 
-- **Programming Languages**: Golang, Python, Java, C, C++
+- **Programming Languages**: Java, Python, C, C++
 - **Frontend**: React, AngularJS, HTML5, CSS3, JavaScript, Bootstrap, Framer Motion
 - **Backend**: Node.js, Express, Django
 - **Databases**: SQL, MySQL, PostgreSQL, MongoDB, Cassandra
