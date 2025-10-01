@@ -46,9 +46,9 @@ const Home = () => {
           <a href="mailto:manoj.s91099@gmail.com" className="social-icon" target="_blank" rel="noopener noreferrer">
             <FontAwesomeIcon icon={faGoogle} />
           </a>
-          <a href="https://github.com/manojs1099" className="social-icon" target="_blank" rel="noopener noreferrer">
-            <FontAwesomeIcon icon={faGithub} />
-          </a>
+          // <a href="https://github.com/manojs1099" className="social-icon" target="_blank" rel="noopener noreferrer">
+          //   <FontAwesomeIcon icon={faGithub} />
+          // </a>
           <a href="https://www.linkedin.com/in/manoj-sa72199126/" className="social-icon" target="_blank" rel="noopener noreferrer">
             <FontAwesomeIcon icon={faLinkedin} />
           </a>
